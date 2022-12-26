@@ -1,6 +1,8 @@
+// This is a Employee payroll program to calculate the data of employee.
+
 #include <stdio.h>
 #include <stdlib.h>
-#include <windows.h>
+#include <windows.h>          // use for beep function to make sound while loading
 
 /* structure to store employee salary details */
 struct employee
